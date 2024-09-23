@@ -13,3 +13,4 @@ Neste aplicativo o usuário consegue interagir tocando nas abas para navegar ent
 - Utilizar os componentes ImageBackground e ScrollView.
 - Estilizar as abas do aplicativo.
 - Estilizar a barra de título do aplicativo.
+- ![Senna](https://github.com/user-attachments/assets/d3f5187a-d63a-41ee-b10b-4562e3cd8e6d)
